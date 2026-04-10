@@ -1,0 +1,7 @@
+python -m pip install pygame
+
+python -m pip install mediapipe==0.10.9
+
+python -m pip install pygame
+
+Using python 3.10
